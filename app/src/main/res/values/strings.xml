@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MDPLab2</string>
+    <string name="app_name">DinnerDecider</string>
+    <string name="enter_food_error">You must enter a food name</string>
 </resources>
